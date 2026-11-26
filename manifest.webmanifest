@@ -1,0 +1,14 @@
+{
+  "name": "for her club.",
+  "short_name": "for her club",
+  "description": "Your big sister in your pocket.",
+  "start_url": "/forherclub/",
+  "display": "standalone",
+  "background_color": "#FBF7F2",
+  "theme_color": "#FBF7F2",
+  "icons": [
+    { "src": "/forherclub/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/forherclub/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/forherclub/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
